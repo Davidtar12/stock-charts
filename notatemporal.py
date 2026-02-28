@@ -1,0 +1,1 @@
+tickers = ['FXAIX', 'VOO', 'VFIAX', 'SPY', 'VIGAX', 'VITAX', 'FTEC', 'QQQ','VGT', 'VUG','VTI','LRCX', 'YUM', 'MCD', 'CNI', 'V', 'NDSN', 'ROST', 'MAR', 'MAS', 'TJX', 'ADP', 'TER', 'ORLY', 'CPRT', 'HLT', 'NKE', 'NVDA', 'AMD','ADBE','AXP','NU','BKNG','DPZ','PZZA','RDDT','INTC']
